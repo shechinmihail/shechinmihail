@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">HI, I'm Mikhail, java developer 👨‍💻  🚀</div>  
+### <div align="center">HI, I'm Mikhail, java developer 👨‍💻</div>  
   
 
 - 🚀 I’m currently learning Spring and SQL  
