@@ -4,14 +4,13 @@
   
 
 ### <div align="center">HI, I'm Mikhail, java developer 👨‍💻</div>  
-  
 
-- 🚀 I’m currently learning Spring and SQL  
-  
+---
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+### :man_technologist: About me:
 
+I am a beginner JAVA developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. From July 2022 to August 2023 I studied JAVA development at Skypro courses. At the moment, my studies on the course have been completed and I am looking for a job, I will be glad to cooperate!
+ 
 <br/>  
 
 <p align="center">
